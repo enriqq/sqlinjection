@@ -5,3 +5,9 @@ Correr servidor con:
 node server.js
 
 Entrar a http://localhost:3000/login.html para ver la página
+
+Los usuarios preinsertados son:
+admin
+adminpass
+user
+userpass
